@@ -1,5 +1,7 @@
 # Aethra
-
+<p align="center">
+  <img src="https://i.ibb.co/ZRpfWJTF/IMG-0815.png" width="120" />
+</p>
 **The browser that gets out of the way.**
 
 We’re building a faster, lighter, and more private web — without the clutter, tracking, or tab chaos modern browsers normalized.
